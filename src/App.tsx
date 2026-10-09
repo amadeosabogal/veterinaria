@@ -1,9 +1,9 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { 
   Search, User, Heart, ShoppingCart, 
-  Truck, ShieldCheck, RefreshCw, Star, 
+  Truck, ShieldCheck, RefreshCw, 
   ChevronLeft, ChevronRight, Phone, Gift, 
-  Smile, Award, Dog, Cat, Bird, Menu, X
+  Smile, Award, Dog, Cat, Menu, X
 } from 'lucide-react';
 import { FaFacebook, FaTwitter, FaInstagram, FaYoutube } from 'react-icons/fa';
 
